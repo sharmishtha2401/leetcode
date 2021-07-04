@@ -1,3 +1,4 @@
+[Discussion Post (created on 4/6/2021 at 13:59)](https://leetcode.com/problems/merge-sorted-array/discuss/1315036/Simple-C%2B%2B-100-fast-0ms)  
 <h2>88. Merge Sorted Array</h2><h3>Easy</h3><hr><div><p>You are given two integer arrays <code>nums1</code> and <code>nums2</code>, sorted in <strong>non-decreasing order</strong>, and two integers <code>m</code> and <code>n</code>, representing the number of elements in <code>nums1</code> and <code>nums2</code> respectively.</p>
 
 <p><strong>Merge</strong> <code>nums1</code> and <code>nums2</code> into a single array sorted in <strong>non-decreasing order</strong>.</p>
