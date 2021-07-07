@@ -1,3 +1,4 @@
+[Discussion Post (created on 7/6/2021 at 11:26)](https://leetcode.com/problems/number-of-segments-in-a-string/discuss/1321583/Easy-C%2B%2B-0ms)  
 <h2>434. Number of Segments in a String</h2><h3>Easy</h3><hr><div><p>You are given a string <code>s</code>, return <em>the number of segments in the string</em>.&nbsp;</p>
 
 <p>A <strong>segment</strong> is defined to be a contiguous sequence of <strong>non-space characters</strong>.</p>
