@@ -10,7 +10,7 @@ public:
             }
             else
             {
-                if(count<k && i!=0)
+                if(count<k)
                     return false;
                 count=0;
             }
