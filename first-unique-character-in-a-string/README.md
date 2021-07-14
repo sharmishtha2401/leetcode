@@ -1,3 +1,4 @@
+[Discussion Post (created on 14/6/2021 at 20:44)](https://leetcode.com/problems/first-unique-character-in-a-string/discuss/1337523/Easy-C%2B%2B-O(N)-20ms)  
 <h2>387. First Unique Character in a String</h2><h3>Easy</h3><hr><div><p>Given a string <code>s</code>, <em>find the first non-repeating character in it and return its index</em>. If it does not exist, return <code>-1</code>.</p>
 
 <p>&nbsp;</p>
