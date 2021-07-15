@@ -1,3 +1,4 @@
+[Discussion Post (created on 15/6/2021 at 13:23)](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/discuss/1339112/Easy-C%2B%2B)  
 <h2>1827. Minimum Operations to Make the Array Increasing</h2><h3>Easy</h3><hr><div><p>You are given an integer array <code>nums</code> (<strong>0-indexed</strong>). In one operation, you can choose an element of the array and increment it by <code>1</code>.</p>
 
 <ul>
