@@ -1,3 +1,4 @@
+[Discussion Post (created on 15/6/2021 at 12:50)](https://leetcode.com/problems/valid-mountain-array/discuss/1339037/Easy-to-understand-C%2B%2B)  
 <h2>941. Valid Mountain Array</h2><h3>Easy</h3><hr><div><p>Given an array of integers <code>arr</code>, return <em><code>true</code> if and only if it is a valid mountain array</em>.</p>
 
 <p>Recall that arr is a mountain array if and only if:</p>
