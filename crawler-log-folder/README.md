@@ -1,3 +1,4 @@
+[Discussion Post (created on 22/6/2021 at 18:43)](https://leetcode.com/problems/crawler-log-folder/discuss/1355006/Short-and-Easy-C%2B%2B)  
 <h2>1598. Crawler Log Folder</h2><h3>Easy</h3><hr><div><p>The Leetcode file system keeps a log each time some user performs a <em>change folder</em> operation.</p>
 
 <p>The operations are described below:</p>
