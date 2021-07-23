@@ -1,3 +1,4 @@
+[Discussion Post (created on 23/6/2021 at 19:2)](https://leetcode.com/problems/sum-of-left-leaves/discuss/1357313/Easy-C%2B%2B-Solution)  
 <h2>404. Sum of Left Leaves</h2><h3>Easy</h3><hr><div><p>Given the <code>root</code> of a binary tree, return the sum of all left leaves.</p>
 
 <p>&nbsp;</p>
