@@ -1,3 +1,4 @@
+[Discussion Post (created on 27/6/2021 at 13:6)](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/discuss/1365669/C%2B%2B-Easy-to-Understand)  
 <h2>1261. Find Elements in a Contaminated Binary Tree</h2><h3>Medium</h3><hr><div><p>Given a binary tree with the following rules:</p>
 
 <ol>
