@@ -1,3 +1,4 @@
+[Discussion Post (created on 27/6/2021 at 15:22)](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/discuss/1365880/Beginner-Friendly-C%2B%2B)  
 <h2>1347. Minimum Number of Steps to Make Two Strings Anagram</h2><h3>Medium</h3><hr><div><p>Given two equal-size strings <code>s</code> and <code>t</code>. In one step you can choose <strong>any character</strong> of <code>t</code> and replace it with <strong>another character</strong>.</p>
 
 <p>Return <em>the minimum number of steps</em> to make <code>t</code>&nbsp;an anagram of <code>s</code>.</p>
