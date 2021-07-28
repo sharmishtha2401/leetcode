@@ -1,3 +1,4 @@
+[Discussion Post (created on 28/6/2021 at 13:51)](https://leetcode.com/problems/intersection-of-two-arrays/discuss/1367884/C%2B%2B-Easy-Two-pointers)  
 <h2>349. Intersection of Two Arrays</h2><h3>Easy</h3><hr><div><p>Given two integer arrays <code>nums1</code> and <code>nums2</code>, return <em>an array of their intersection</em>. Each element in the result must be <strong>unique</strong> and you may return the result in <strong>any order</strong>.</p>
 
 <p>&nbsp;</p>
