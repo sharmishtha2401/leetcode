@@ -1,3 +1,4 @@
+[Discussion Post (created on 28/6/2021 at 13:54)](https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/1367889/Easy-C%2B%2B-solution-Using-two-pointers)  
 <h2>350. Intersection of Two Arrays II</h2><h3>Easy</h3><hr><div><p>Given two integer arrays <code>nums1</code> and <code>nums2</code>, return <em>an array of their intersection</em>. Each element in the result must appear as many times as it shows in both arrays and you may return the result in <strong>any order</strong>.</p>
 
 <p>&nbsp;</p>
