@@ -1,3 +1,4 @@
+[Discussion Post (created on 30/6/2021 at 15:31)](https://leetcode.com/problems/consecutive-characters/discuss/1372039/Easy-C%2B%2B-One-pass-O(n))  
 <h2>1446. Consecutive Characters</h2><h3>Easy</h3><hr><div><p>Given a string <code>s</code>, the power of the string is the maximum length of a non-empty substring that&nbsp;contains only one unique character.</p>
 
 <p>Return <em>the power</em>&nbsp;of the string.</p>
