@@ -1,3 +1,4 @@
+[Discussion Post (created on 4/7/2021 at 15:58)](https://leetcode.com/problems/guess-number-higher-or-lower/discuss/1382667/Simple-C%2B%2B-Binary-search)  
 <h2>374. Guess Number Higher or Lower</h2><h3>Easy</h3><hr><div><p>We are playing the Guess Game. The game is as follows:</p>
 
 <p>I pick a number from <code>1</code> to <code>n</code>. You have to guess which number I picked.</p>
