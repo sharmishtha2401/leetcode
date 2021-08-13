@@ -1,3 +1,4 @@
+[Discussion Post (created on 13/7/2021 at 11:27)](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/discuss/1400691/Easy-C%2B%2B-Using-Sort)  
 <h2>1877. Minimize Maximum Pair Sum in Array</h2><h3>Medium</h3><hr><div><p>The <strong>pair sum</strong> of a pair <code>(a,b)</code> is equal to <code>a + b</code>. The <strong>maximum pair sum</strong> is the largest <strong>pair sum</strong> in a list of pairs.</p>
 
 <ul>
