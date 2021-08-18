@@ -12,21 +12,21 @@
 class Solution {
 public:
     int good;
-    int goodNodes(TreeNode* root, int m=-10000) {
+    int goodNodes(TreeNode* root) {
         good=0;
-        cal(root, -10000);
+        calc(root, -10000);
         return good;
     }
     
-    void cal(TreeNode *root, int m)
+    void calc(TreeNode *root, int m)
     {
         if(!root)
             return;
         if(root->val>=m)
             good++;
-        m=max(m, root->val);
-        cal(root->left,m);
-        cal(root->right,m);
-        
+        m=max(m,root->val);
+        calc(root->left,m);
+        calc(root->right,m);
     }
+ 
 };
