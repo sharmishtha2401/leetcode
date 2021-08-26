@@ -1,3 +1,4 @@
+[Discussion Post (created on 26/7/2021 at 20:22)](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/discuss/1427568/Easy-C%2B%2B-Brute-Force)  
 <h2>1608. Special Array With X Elements Greater Than or Equal X</h2><h3>Easy</h3><hr><div><p>You are given an array <code>nums</code> of non-negative integers. <code>nums</code> is considered <strong>special</strong> if there exists a number <code>x</code> such that there are <strong>exactly</strong> <code>x</code> numbers in <code>nums</code> that are <strong>greater than or equal to</strong> <code>x</code>.</p>
 
 <p>Notice that <code>x</code> <strong>does not</strong> have to be an element in <code>nums</code>.</p>
