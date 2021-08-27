@@ -1,3 +1,4 @@
+[Discussion Post (created on 27/7/2021 at 15:22)](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/discuss/1428878/Easy-C%2B%2B-O(N))  
 <h2>1961. Check If String Is a Prefix of Array</h2><h3>Easy</h3><hr><div><p>Given a string <code>s</code> and an array of strings <code>words</code>, determine whether <code>s</code> is a <strong>prefix string</strong> of <code>words</code>.</p>
 
 <p>A string <code>s</code> is a <strong>prefix string</strong> of <code>words</code> if <code>s</code> can be made by concatenating the first <code>k</code> strings in <code>words</code> for some <strong>positive</strong> <code>k</code> no larger than <code>words.length</code>.</p>
