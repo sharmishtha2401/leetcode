@@ -1,3 +1,4 @@
+[Discussion Post (created on 29/7/2021 at 15:13)](https://leetcode.com/problems/maximum-gap/discuss/1432590/Easy-c%2B%2B)  
 <h2>164. Maximum Gap</h2><h3>Hard</h3><hr><div><p>Given an integer array <code>nums</code>, return <em>the maximum difference between two successive elements in its sorted form</em>. If the array contains less than two elements, return <code>0</code>.</p>
 
 <p>You must write an algorithm that runs in linear time and uses linear extra space.</p>
