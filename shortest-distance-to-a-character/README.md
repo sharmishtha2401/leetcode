@@ -1,3 +1,4 @@
+[Discussion Post (created on 2/8/2021 at 19:53)](https://leetcode.com/problems/shortest-distance-to-a-character/discuss/1440718/C%2B%2B-Two-passes-O(N))  
 <h2>821. Shortest Distance to a Character</h2><h3>Easy</h3><hr><div><p>Given a string <code>s</code> and a character <code>c</code> that occurs in <code>s</code>, return <em>an array of integers </em><code>answer</code><em> where </em><code>answer.length == s.length</code><em> and </em><code>answer[i]</code><em> is the <strong>distance</strong> from index </em><code>i</code><em> to the <strong>closest</strong> occurrence of character </em><code>c</code><em> in </em><code>s</code>.</p>
 
 <p>The <strong>distance</strong> between two indices <code>i</code> and <code>j</code> is <code>abs(i - j)</code>, where <code>abs</code> is the absolute value function.</p>
