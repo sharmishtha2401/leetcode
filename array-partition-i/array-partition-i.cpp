@@ -3,10 +3,9 @@ public:
     int arrayPairSum(vector<int>& nums) {
         sort(nums.begin(), nums.end());
         int sum=0;
-        for(int i=0; i<nums.size(); i++)
+        for(int i=0; i<nums.size(); i+=2)
         {
-            if(i%2==0)
-                sum+=nums[i];
+            sum+=nums[i];
         }
         return sum;
     }
