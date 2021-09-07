@@ -1,7 +1,7 @@
 class Solution {
 public:
     int numDifferentIntegers(string word) {
-        int n = word.length();
+        int n = word.length();   //only length() will work, not size()
         unordered_set<string>s;
         int i=0;
         while(i<n){
@@ -15,7 +15,7 @@ public:
                 i++;
             }
             int j=0;
-            while(j<temp.length() && temp[j] == '0') j++;
+            while(j<temp.length() && temp[j] == '0') j++;    //only length() will work, not size()
             temp = temp.substr(j);
             s.insert(temp);
         }
