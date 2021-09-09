@@ -1,3 +1,4 @@
+[Discussion Post (created on 9/8/2021 at 20:19)](https://leetcode.com/problems/maximum-ice-cream-bars/discuss/1454080/Easy-C%2B%2B-O(Sort))  
 <h2>1833. Maximum Ice Cream Bars</h2><h3>Medium</h3><hr><div><p>It is a sweltering summer day, and a boy wants to buy some ice cream bars.</p>
 
 <p>At the store, there are <code>n</code> ice cream bars. You are given an array <code>costs</code> of length <code>n</code>, where <code>costs[i]</code> is the price of the <code>i<sup>th</sup></code> ice cream bar in coins. The boy initially has <code>coins</code> coins to spend, and he wants to buy as many ice cream bars as possible.&nbsp;</p>
