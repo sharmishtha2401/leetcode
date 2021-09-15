@@ -1,3 +1,4 @@
+[Discussion Post (created on 15/8/2021 at 19:57)](https://leetcode.com/problems/longest-common-prefix/discuss/1465148/Easy-C%2B%2B-100-faster-O(N.LogN))  
 [Discussion Post (created on 4/6/2021 at 13:48)](https://leetcode.com/problems/longest-common-prefix/discuss/1315010/C%2B%2B-not-the-best-but-the-easiest-approach)  
 <h2>14. Longest Common Prefix</h2><h3>Easy</h3><hr><div><p>Write a function to find the longest common prefix string amongst an array of strings.</p>
 
