@@ -1,3 +1,4 @@
+[Discussion Post (created on 23/8/2021 at 14:53)](https://leetcode.com/problems/break-a-palindrome/discuss/1480735/Easy-and-Concise-C%2B%2B-100-faster)  
 <h2>1328. Break a Palindrome</h2><h3>Medium</h3><hr><div><p>Given a palindromic string of lowercase English letters <code>palindrome</code>, replace <strong>exactly one</strong> character with any lowercase English letter so that the resulting string is <strong>not</strong> a palindrome and that it is the <strong>lexicographically smallest</strong> one possible.</p>
 
 <p>Return <em>the resulting string. If there is no way to replace a character to make it not a palindrome, return an <strong>empty string</strong>.</em></p>
