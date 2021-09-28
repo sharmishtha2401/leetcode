@@ -1,3 +1,4 @@
+[Discussion Post (created on 28/8/2021 at 18:47)](https://leetcode.com/problems/sort-array-by-parity-ii/discuss/1491392/Easy-C%2B%2B-Two-Pointer-90-faster)  
 <h2>922. Sort Array By Parity II</h2><h3>Easy</h3><hr><div><p>Given an array of integers <code>nums</code>, half of the integers in <code>nums</code> are <strong>odd</strong>, and the other half are <strong>even</strong>.</p>
 
 <p>Sort the array so that whenever <code>nums[i]</code> is odd, <code>i</code> is <strong>odd</strong>, and whenever <code>nums[i]</code> is even, <code>i</code> is <strong>even</strong>.</p>
