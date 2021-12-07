@@ -12,23 +12,23 @@
 class Solution {
 public:
     int ans=0;
-    int pathSum(TreeNode* root, int sum) {
+    int pathSum(TreeNode* root, int targetSum) {
         if(root)
         {
-            isSum(root, sum);
-            pathSum(root->left, sum);
-            pathSum(root->right, sum);
+            isSum(root, targetSum);
+            pathSum(root->left, targetSum);
+            pathSum(root->right, targetSum);
         }
         return ans;
     }
     
-    void isSum(TreeNode *root, int sum)
+    void isSum(TreeNode *root, int target)
     {
         if(!root)
             return;
-        if(root->val==sum)
+        if(root->val==target)
             ans++;
-        isSum(root->left, sum-root->val);
-        isSum(root->right, sum-root->val);
+        isSum(root->left, target-root->val);
+        isSum(root->right, target-root->val);
     }
 };
