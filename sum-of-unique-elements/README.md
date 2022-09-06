@@ -1,3 +1,4 @@
+[Discussion Post (created on 6/8/2022 at 12:54)](https://leetcode.com/problems/sum-of-unique-elements/discuss/2538735/C%2B%2B)  
 <h2>1748. Sum of Unique Elements</h2><h3>Easy</h3><hr><div><p>You are given an integer array <code>nums</code>. The unique elements of an array are the elements that appear <strong>exactly once</strong> in the array.</p>
 
 <p>Return <em>the <strong>sum</strong> of all the unique elements of </em><code>nums</code>.</p>
